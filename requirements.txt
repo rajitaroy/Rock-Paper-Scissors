@@ -1,0 +1,8 @@
+opencv_python==4.5.2.54
+numpy==1.19.5
+matplotlib==3.2.2
+tensorflow==2.5.0
+keras_nightly==2.5.0.dev2021032900
+keras==2.4.3
+tensorflow_datasets==4.3.0
+tensorflowjs==3.7.0
