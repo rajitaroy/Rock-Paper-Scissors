@@ -1,8 +1,0 @@
-tensorflow
-tensorflow_datasets
-matplotlib
-numpy
-keras
-cv2
-opencv-python
-tensorflowjs
